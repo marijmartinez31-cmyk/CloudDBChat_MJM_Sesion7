@@ -5,4 +5,4 @@
 
 **MIT App Inventor**
 ### Archivos
-- 'CloudDBChatMJM.pdf': Archivo con las imágenes de la interfaz de la aplicación y los bloques de programación.
+- 'CloudDBChatMJM.pdf': Archivo con las imágenes de la interfaz del, los bloques de programación y la aplicación.
